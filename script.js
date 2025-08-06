@@ -34,10 +34,10 @@ function getZaraSize(gender, chest, waist, hips) {
     if (chest <= 112) return "L";
     return "XL+";
   } else {
-    if (bust <= 82 && waist <= 62) return "XS";
-    if (bust <= 90 && waist <= 70) return "S";
-    if (bust <= 98 && waist <= 78) return "M";
-    if (bust <= 106 && waist <= 86) return "L";
+    if (chest <= 82 && waist <= 62) return "XS";
+    if (chest <= 90 && waist <= 70) return "S";
+    if (chest <= 98 && waist <= 78) return "M";
+    if (chest <= 106 && waist <= 86) return "L";
     return "XL+";
   }
 }
@@ -57,4 +57,3 @@ function getHMSize(gender, chest, waist, hips) {
     return "XL+";
   }
 }
-
