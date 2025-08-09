@@ -26,3 +26,6 @@ https://size-calculator-ten.vercel.app/
 <img width="1887" height="921" alt="image" src="https://github.com/user-attachments/assets/3fdf39d1-cee2-46eb-8b17-3a0398499e5f" />
 
 <img width="1909" height="905" alt="image" src="https://github.com/user-attachments/assets/df7f7e03-430f-4f6c-baf9-8d8df489942f" />
+
+## Demo Video:
+https://drive.google.com/file/d/1x1mpfA3y183jp4jGTQmtAvKSS-TrPj3M/view?usp=sharing
