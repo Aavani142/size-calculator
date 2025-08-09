@@ -2,6 +2,9 @@
 
 Size Calculator is a simple web application that helps users convert body measurements into clothing sizes across various popular brands. The app supports both men’s and women’s size conversions and includes options for different units (cm/inches).
 
+## LIVE
+https://size-calculator-ten.vercel.app/
+
 ## Features
 
 - Input measurements for chest, waist, and hips
@@ -15,7 +18,6 @@ Size Calculator is a simple web application that helps users convert body measur
 - HTML
 - Tailwind CSS
 - JavaScript
-- Vite (development server)
 
 ## Screenshots
 
